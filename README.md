@@ -1,2 +1,2 @@
-# data_repo_02
-Sample collection of sql files showing how to write and use SQL queries i.e MySQL to manipulate data. 
+# sql_sample_files
+Sample collection of sample sql files giving a few highlights of where I am at when it comes to dealing with writing and using MySQL language to manipulate data. 
