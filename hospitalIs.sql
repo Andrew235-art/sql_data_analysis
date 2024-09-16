@@ -1,3 +1,5 @@
+-- This is how comments are written with two hyphens at the start of a sentence.
+-- Any commented out code will not be executed, i.e no results will be produced for it.
 -- Creating the required tables.
 
 
