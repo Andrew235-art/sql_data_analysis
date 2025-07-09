@@ -1,4 +1,4 @@
-# SQL Database Projects Repository
+# SQL Database Projects
 
 Welcome to the SQL Database Projects Repository! This repository houses a collection of SQL scripts and datasets for various data analysis and database management tasks. Each project is self-contained and demonstrates different aspects of SQL usage, from data definition and manipulation to complex querying and analysis.
 
@@ -192,4 +192,3 @@ This project is licensed under the terms of the [LICENSE](LICENSE) file. Please 
 ## Contact
 
 For any questions, feedback, or if you'd like to discuss these projects further, please open an issue in this repository.
-(If you have specific contact information you'd like to add, please replace the line above.)
